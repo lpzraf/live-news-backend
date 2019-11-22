@@ -1,24 +1,3 @@
-# README
+## Live News App - backend Rails API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+For the React/Redux frontend please take a look at --> [https://github.com/lpzraf/live-news-backend](https://github.com/lpzraf/live-news-backend).
